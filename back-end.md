@@ -1,7 +1,21 @@
-## Back End Learning Resources
+# Back End Learning Resources
 
-### Beginners
+## Beginners
 
-### Intermediate
+## Intermediate
 
-### Advance
+## Advanced
+
+
+### Language Specific Resources
+
+1. Python (Flask/Django)
+ 
+
+
+2. Node JS
+
+
+3. PHP
+
+

@@ -6,4 +6,4 @@
 
 ### Intermediate
 
-### Advance
+### Advanced
