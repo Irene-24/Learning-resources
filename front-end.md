@@ -140,6 +140,11 @@ You don't need to have a background in programming or need to know technical ter
 
 
 ## Intermediate
+   1. [How to Install Node.js and NPM on Windows](https://phoenixnap.com/kb/install-node-js-npm-on-windows) 🗒️
+   2. [Sass Tutorial for Beginners - CSS With Superpowers](https://www.youtube.com/watch?v=_a5j7KoflTs) 🎥
+   3. [How To Use the JavaScript Fetch API to Get Data](https://www.digitalocean.com/community/tutorials/how-to-use-the-javascript-fetch-api-to-get-data) 🗒️
+   4. [JavaScript Fetch API](https://www.javascripttutorial.net/javascript-fetch-api/) 🗒️
+   5. [3 ways to deploy React apps to Netlify](https://blog.logrocket.com/3-ways-to-deploy-react-apps-to-netlify/) 🗒️
 
 ## Advanced
 
@@ -147,7 +152,20 @@ You don't need to have a background in programming or need to know technical ter
 
 1. React JS
 
+   i. [ReactJS Tutorial for Beginners](https://www.youtube.com/playlist?list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3) 🎥
+
+   ii. [React Redux](https://www.youtube.com/watch?v=9boMnm5X9ak&list=PLC3y8-rFHvwheJHvseC3I0HuYI2f46oAK) 🎥
+
+   iii. [To do list with react](https://www.youtube.com/watch?v=tBigGpLRMtU) 🎥
+
+   iv. [Ecommerce with reactjs](https://www.youtube.com/watch?v=731Ur2HGRBY) 🎥
+
+   v. [Kent C Dodds blog](https://kentcdodds.com/blog/?q=react) 🗒️
+
+   vi. [Dan Abramov blog](https://overreacted.io/) 🗒️
+
+   vii. [Build your first blog using React](https://www.sanity.io/guides/build-your-first-blog-using-react) 🗒️
+
 2. Angular JS
 
 3. Vue JS
-
